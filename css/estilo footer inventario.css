@@ -1,0 +1,35 @@
+.footer {
+	margin-top: 5px;
+	margin: 45px 150px;
+	background: #17181b;
+	border: 0px solid #fff;
+	width: 900px;
+}
+.footer .menu a {
+	display: block;
+	margin-top: 10px;
+	margin: 8px 20px;
+	font-family: 'calibri';
+	color: #fff;
+	border: 0px solid	#fff;
+	width: 500px;
+	height: 25px;
+	text-decoration: none;
+	
+}
+.footer .menu a:hover{
+	background: #49497F;
+	border-radius: 2px;
+	box-shadow: #fff;
+}
+
+ .contactenos h2{
+	border: 0px solid #fff;
+	font-family: 'calibri';
+	color: #fff;
+	float:right;
+	margin: 5px 120px;
+
+}
+
+

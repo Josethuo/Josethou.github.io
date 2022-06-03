@@ -1,0 +1,198 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	
+}
+body{
+    background: #1F1C2C;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #928DAB, #1F1C2C);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #fff, #1F1C2C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+	height: 100%;
+	border: 0px solid #fff;
+}
+header{
+	width: 100%;
+	height: 210px;
+	border: 0px solid #fff;
+	margin-bottom: 15px;
+	
+}
+#logo{
+	width: 170px;
+	height: 150px;
+	border: 0px solid #fff;
+	margin: 0px 10px;
+
+}
+#log{
+	width: 120px;
+	height: 120px;
+	margin: 0px 35px;
+
+}
+#letra {
+	border: 0px solid #fff;
+	height: 30px;
+}
+#letra h1{
+	color: #ffF;
+	font-family: 'calibri';
+}
+.section{
+	background: #2066B0;
+	border: 1px solid #fff;
+	height: 850px;
+	border-radius: 20px;
+}
+.columna{
+	border: 0px solid #fff;
+	height: 800px;
+	background: #fff;
+	border-radius: 20px;
+}
+.cools{
+	border: 0px solid #000;
+	height: 650px;
+	border-radius: 20px;
+}
+.barraN{
+	border: 0px solid #fff;
+	background:  #2980B9 ;
+	height: 42px;
+	justify-content: center;
+
+}
+.linkin{
+	margin: 0px 0px ;
+	background: #2980B9;
+  /* background: #9CECFB;  /* fallback for old browsers */
+  /* background: -webkit-linear-gradient(to right, #0052D4, #65C7F7, #9CECFB);  /* Chrome 10-25, Safari 5.1-6 */
+  /* background: linear-gradient(to right, #0052D4, #65C7F7, #9CECFB); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.linkin:hover{
+	margin: 0px 0px ;
+    background: #24BED3;
+
+}
+.uli{
+	border: 0px solid #fff;
+}
+.titulo{
+	border: 0px solid #000, 
+}
+.botonE{
+	width: 100%;
+}
+.section8{
+	border: 1px solid #fff;
+	height: 600px;
+
+}
+.t{
+	border: 1px solid #FFF;
+	
+	
+
+}
+.tan{
+	border: 1px solid #fff;
+
+}
+.sete{
+	border :1px solid #000;
+	height: 90px;
+
+}
+.seti{
+	height: 90px;
+
+}
+.se{
+	border:1px  solid #fff;
+
+}
+.lu{
+	border:0px solid #fff;
+	height: 50px;
+
+}
+.carrusel{
+border: 1px solid #000;
+height: 500px;
+margin: 48px 26px ;
+
+}
+.carrito{
+	font-weight: bolder;
+	background: #FF4600;
+	
+
+	
+
+}
+.tea{
+	width: 25px;
+	height: 40px;
+	background: #C03A07;
+	
+}
+.bus{
+	height:50px;
+}
+.pe{
+	border : 1px solid #fff;
+}
+.ten{
+	border: 1px solid #fff;
+}
+.sectionFO{
+	border :0px solid #ffff;
+
+}
+.datos{
+ border : 1px solid #fff;
+ height: 400px;
+ margin: 0px 14px ;
+}
+.nombreD{
+	height: 100px ;
+	border: 1px solid #fff;
+	margin: 25px 14px;
+}
+.social{
+	text-decoration: none;
+
+}
+
+.social:hover{
+	color: #ffff;
+}
+.sectionti{
+	border : 0px solid #FFF;
+
+}
+.titulofo{
+	color: #fff;
+
+}
+.letrafo{
+	color: #FFf;
+
+}
+.linkine{
+	text-decoration: none;
+	color: #fff;
+}
+.linkine:hover{
+	text-decoration: none;
+	color: #24BED3 ;
+}
+
+footer{
+	background: #17181b;
+	height: 250px;
+
+}

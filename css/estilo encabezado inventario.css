@@ -1,0 +1,51 @@
+body{
+	width: 1180px;
+	
+	border: 0px solid #fff;
+}
+#logo{
+	border: 0px solid #fff;
+	width: 210px;
+	height: 165px;
+
+
+
+}
+#logo #log{
+	width:140px;
+    float: left;
+    height: 130px; 
+    border: 0px solid #fff;
+    margin: 30px;
+}
+ #Letra{
+	border:0px solid #fff; 
+	float:left;
+	width: 195px;
+	margin:10px;
+	margin-top: -50px
+}
+ #Letra h1{
+	border: 0px solid #fff;
+	float: auto;
+	font-family: 'calibri';color: #fff ;
+ 
+}
+
+.nombre{
+	border:0px solid #fff; 
+	float:right;
+	width: 160px;
+	margin-top: 5px;
+	margin: -55px 0px;
+	background:#0F1E3B;
+}
+.nombre h2{
+	border: 0px solid #fff;
+	float: auto;
+	font-family: 'calibri';color: #fff ;
+	font-size: 30px ;
+	width: 130px;
+	margin-top: 5px;
+	margin: 6px 14px;
+}

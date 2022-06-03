@@ -1,0 +1,48 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	height: 400px;
+	background: url('../img/error 2.jpg') #000;
+	background-size: 1280px 900px;
+}
+.error404{
+	width: 500px;
+	height: 250px;
+	border: 0px solid #fff;
+	margin-top: 5px;
+	margin: 320px 420px;
+	box-shadow: 7px 13px 37px #000;
+}
+.error404 h1{
+color: #fff;
+font-size: 100px;
+border: 0px solid #fff;
+margin-top: 5px;
+margin: 5px 37px; 
+width: 425px;
+
+}
+.error404 p{
+	color: #fff;
+	border: 0px solid #fff;
+    margin-top: 0px;
+    width: 500px;
+    font-size: 25px;
+}
+.error404 #boton{
+	background: #13E0C1;
+	border: none;
+	width: 80px;
+	height: 30px;
+	margin top: -100px;
+	margin: -100px 205px;
+	box-shadow:  7px 13px 37px #000;
+}
+.error404 #boton:hover{
+	background: #019CB5;
+}
+.error404 #boton .enlace{
+	color: #fff;
+	text-decoration: none;
+}

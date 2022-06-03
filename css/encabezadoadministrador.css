@@ -1,0 +1,59 @@
+body{
+	width: 1180px;
+	
+	border: 0px solid #fff;
+}
+#logo{
+	border: 0px solid #fff;
+	width: 210px;
+	height: 165px;
+
+
+
+}
+#logo #log{
+	width:140px;
+    float: left;
+    height: 130px; 
+    border: 0px solid #fff;
+    margin: 30px;
+}
+ #Letra{
+	border:0px solid #fff; 
+	float:left;
+	width: 195px;
+	margin:10px;
+	margin-top: -50px
+}
+ #Letra h1{
+	border: 0px solid #fff;
+	float: auto;
+	font-family: 'calibri';color: #fff ;
+ 
+}
+
+#fotoadmin img{
+	width: 120px;
+	height: 90px;
+	float: right;
+	margin-top: -130px;
+	border: 0px solid #fff;
+	margin: -130px 20px;
+}
+
+#titulo{
+	width: 180px;
+	height: 50px;
+	float: right;
+	border: 0px solid #fff;
+	margin-top: -45px;
+}
+#titulo h3{
+	color: #fff;
+	float: right;
+	margin-top: 20px;
+	margin:5px ;
+	border: 0px solid #fff;
+}
+
+
